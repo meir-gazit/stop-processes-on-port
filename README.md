@@ -1,6 +1,6 @@
 # stop processes on port
 
-Just enter the port you need to free and ⛵ sail to the horizon .....>
+Just enter the port you need to freeת ךeave the port and ⛵ sail to the horizon .....>
 
 .bat
 .c
