@@ -11,7 +11,7 @@
                          ~~-~^~^~`~^~`~^^~^~-^~^~^~-~^~^
                            ~-^~^-`~^~-^~^`^~^-^~^`^~^-~^ 
 
-Just enter the port you need to free leave the port and ⛵ sail to the horizon .....>
+Just enter port number you need to free, leave the port and ⛵ sail to the horizon .....>
 
 .bat
 .c
